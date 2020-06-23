@@ -4,8 +4,8 @@
 
 <div class="jumbotron">
     <h1>General Store</h1>
-    <p class="lead">Established in 1977, we are a classic general store that takes pride in locally sourced products and foods. </p>
-    <p>@Html.ActionLink("Learn More About Us", "About")</p>
+    <p class="lead text-center">Established in 1977, we are a classic general store that takes pride in locally sourced products and foods. </p>
+    <p>@Html.ActionLink("Learn More", "About")</p>
 </div>
 
 <div class="row">
@@ -18,13 +18,13 @@
         <p>@Html.ActionLink("Check Products", "Index", "Product", null, new { @class = "btn btn-primary btn-large" })</p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <h2>Accounts</h2>
+        <p>From here you can access individual customer information, edit a customer, or create new one!</p>
+        <p>@Html.ActionLink("Customer Home", "Index", "Customer", null, new { @class = "btn btn-primary btn-large" })</p>
     </div>
     <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <h2>Transactions</h2>
+        <p>Log transactions by entering date, customer, and product information</p>
+        <p>@Html.ActionLink("Transaction Home", "Index", "Transaction", null, new { @class = "btn btn-primary btn-large" })</p>
     </div>
 </div>

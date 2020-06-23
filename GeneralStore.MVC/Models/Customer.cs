@@ -20,6 +20,17 @@ namespace GeneralStore.MVC.Models
         public string LastName { get; set; }
 
         [Display(Name = "Full Name")]
-        public string FullName { get; }
+        public string FullName
+        {
+            get
+            {
+                return string.Concat(FirstName + " " + LastName);
+            }
+        }
+
+        public IEnumerable<Customer> Customers { get; set; }
+
+
     }
+
 }

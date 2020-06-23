@@ -106,3 +106,8 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate.resources
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.GenerateResource.cache
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.FirstMigration.resources
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.AddedTransactions.resources
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\GeneralStore\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.AnotherTuesdayMigrate.resources

@@ -25,5 +25,7 @@ namespace GeneralStore.MVC.Models
         [Required]
         [Display(Name = "It is Food")]
         public Boolean IsFood { get; set; }
+
+        public IEnumerable<Product> Products { get; set; }
     }
 }
